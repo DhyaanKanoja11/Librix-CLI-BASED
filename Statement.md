@@ -23,7 +23,7 @@ Loan functions: check out books with limits, record returns, mark overdue loans.
 Generate and view reports on books, users, and loans by category and status.  
 Members can view their loans and search books by title, author, or genre.  
 Clear, easy-to-read menu system with tables for showing data in the console.
->Below are the References used
+##### Below are the References used
 [1](https://www.alooba.com/skills/soft-skills/content-marketing-404/readability-improvement/)
 [2](https://pressbooks.bccampus.ca/technicalwriting/chapter/styletipsreadability/)
 [3](https://www.acrolinx.com/blog/how-clear-language-improves-readability-in-technical-documentation/)
