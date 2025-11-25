@@ -179,6 +179,7 @@ Member users can:
 
    - For each role (admin, librarian, member), change the password.  
    - Log out and log back in with the new password to verify that authentication uses the updated hash.[3]
+## Git commit history is mentioned in the project report
 #### Below are the References used to make the Project
 [1](https://github.com/PavanAnanthSharma/Library-Management-Using-Python-and-MySQL)
 [2](https://open.openclass.ai/resource/lesson-66956fb1c61552c43c77965f/share?code=i96uVzSAf0kVag)
